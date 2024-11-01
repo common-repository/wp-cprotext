@@ -1,0 +1,430 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-15 16:50+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "CPROTEXT Options"
+msgstr ""
+
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+msgid "no font available"
+msgstr ""
+
+msgid ""
+"This case should not happen ! Please, disable CPROTEXT for this post and "
+"report this bug to wp-dev@cprotext.com ."
+msgstr ""
+
+msgid "Content"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Font"
+msgstr ""
+
+msgid "Placeholder"
+msgstr ""
+
+msgid "Keywords"
+msgstr ""
+
+msgid "This text is going to be unpublished."
+msgstr ""
+
+msgid ""
+"The CPROTEXT data associated with this revision will remain available in "
+"case it has to be published again."
+msgstr ""
+
+msgid ""
+"Modifications were made to the protected revision. This new revision will "
+"not be protected, and will require a new submission to CPROTEXT service if "
+"it happens to be published."
+msgstr ""
+
+msgid "This text is not published: protection seems useless."
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid ""
+"You need to connect to your CPROTEXT account to commit the following "
+"modifications:"
+msgstr ""
+
+msgid "Fill in your CPROTEXT credentials"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Identify"
+msgstr ""
+
+msgid "Identification failed"
+msgstr ""
+
+msgid "Can't retrieve font list."
+msgstr ""
+
+msgid "Can't get current credits."
+msgstr ""
+
+msgid "Your account has currently "
+msgstr ""
+
+msgid "credits."
+msgstr ""
+
+msgid "Do you confirm willing to use CPROTEXT service to protect this text ?"
+msgstr ""
+
+msgid "I'll come back later"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Operation cancelled"
+msgstr ""
+
+msgid "Error while submitting"
+msgstr ""
+
+msgid "Error while updating"
+msgstr ""
+
+msgid "Resume WordPress publishing process"
+msgstr ""
+
+msgid "Error while getting status"
+msgstr ""
+
+msgid "unknown status"
+msgstr ""
+
+msgid "Failed"
+msgstr ""
+
+msgid "Unknown reason"
+msgstr ""
+
+msgid "Database connection failed"
+msgstr ""
+
+msgid "Internal error: issue has been reported upstream"
+msgstr ""
+
+msgid "font file storage failed"
+msgstr ""
+
+msgid "EOT font generation failed with error code"
+msgstr ""
+
+msgid "Font generation failed with error code"
+msgstr ""
+
+msgid "Can't generate EOT fonts"
+msgstr ""
+
+msgid "Can't generate fonts"
+msgstr ""
+
+msgid "Database access failed"
+msgstr ""
+
+msgid "Font not found"
+msgstr ""
+
+msgid "Processing"
+msgstr ""
+
+msgid "step"
+msgstr ""
+
+msgid "destructuration"
+msgstr ""
+
+msgid "disruption"
+msgstr ""
+
+msgid "compilation"
+msgstr ""
+
+msgid "Waiting to be queued"
+msgstr ""
+
+msgid "Queueing"
+msgstr ""
+
+msgid "texts to protect before yours."
+msgstr ""
+
+msgid "Operation succeeded"
+msgstr ""
+
+msgid ""
+"This text is entitled to our Pay-What-You-Want policy. Check your account "
+"'Texts' panel, and set the price you consider appropriate for this service. "
+"Once done, come back here."
+msgstr ""
+
+msgid "Downloading your protected text"
+msgstr ""
+
+msgid "Your text has been successfully protected."
+msgstr ""
+
+msgid "It is now ready to be published."
+msgstr ""
+
+msgid "Error while getting CPROTEXT data"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Ok"
+msgstr ""
+
+msgid "Failing to insert CPROTEXT data for post id"
+msgstr ""
+
+msgid "Failing to update CPROTEXT data for post id"
+msgstr ""
+
+msgid "Nothing to update CPROTEXT data for post id"
+msgstr ""
+
+msgid "Failing to delete waiting metadata for"
+msgstr ""
+
+msgid "Failing to save keywords for"
+msgstr ""
+
+msgid "Failing to save waiting metadata for"
+msgstr ""
+
+msgid "Failing to update CPROTEXT data for "
+msgstr ""
+
+#, php-format
+msgid "Failing to associate %u with CPROTEXT data from %u."
+msgstr ""
+
+#, php-format
+msgid "Failing to transfer other posts associated with %u CPROTEXT data to %u"
+msgstr ""
+
+msgid "This should be a modified revision, but it seems it's not !"
+msgstr ""
+
+msgid "CPROTEXT data integration cancelled."
+msgstr ""
+
+#, php-format
+msgid "Failing to save previously protected revision %u for parent %u"
+msgstr ""
+
+msgid "This post does not have any revision: not good !"
+msgstr ""
+
+#, php-format
+msgid "Can't find Parent %u previous revision"
+msgstr ""
+
+#, php-format
+msgid ""
+"Failing to save previously protected state of previous revision for parent %u"
+msgstr ""
+
+msgid "Failing to delete previous protected revision id metadata"
+msgstr ""
+
+msgid "Failing to delete protected state of previous revision"
+msgstr ""
+
+msgid "Failing to find revision id for post"
+msgstr ""
+
+msgid "This should have the same content, but it seems it does not !"
+msgstr ""
+
+msgid "This should be the same revision, but it does not seem to be so !"
+msgstr ""
+
+msgid "How can this about-to-be-published draft be protected ?"
+msgstr ""
+
+msgid "Failing to disable CPROTEXT data for parent id"
+msgstr ""
+
+msgid "Copyrighted text protected by CPROTEXT"
+msgstr ""
+
+msgid "CPROTEXT web site"
+msgstr ""
+
+msgid "Copyright protection for online texts"
+msgstr ""
+
+msgid ""
+"CPROTEXT protection process has been initiated for this text and needs to be "
+"resumed."
+msgstr ""
+
+msgid "Internet Explorer 8 support"
+msgstr ""
+
+msgid "You are about to use %1 credit%2 for this text."
+msgstr ""
+
+msgid ""
+"Integration of the online texts copy protection service proposed by cprotext."
+"com"
+msgstr ""
+
+msgid "ASKADICE"
+msgstr ""
+
+msgid "Disabled: database version mismatch"
+msgstr ""
+
+msgid ""
+"Disabled: you must first synchronize the WordPress CPROTEXT Settings with "
+"your CPROTEXT.COM account"
+msgstr ""
+
+msgid "Invalid input data"
+msgstr ""
+
+msgid "Failing to update IE8 support for "
+msgstr ""
+
+msgid "successfully uploaded."
+msgstr ""
+
+msgid "CPROTEXT server unreachable."
+msgstr ""
+
+msgid "WordPress hosting server issue"
+msgstr ""
+
+#, php-format
+msgid "File size exceeds PHP configured limit (%s)."
+msgstr ""
+
+msgid "Upload interrupted."
+msgstr ""
+
+msgid "No file submitted."
+msgstr ""
+
+msgid "Temporary folder unreachable."
+msgstr ""
+
+msgid "Can't write file in temporary folder."
+msgstr ""
+
+msgid "A PHP extension stopped the file upload."
+msgstr ""
+
+msgid "Unidentified issue."
+msgstr ""
+
+msgid "https://www.cprotext.com/en/tools.html"
+msgstr ""
+
+msgid "CPROTEXT options"
+msgstr ""
+
+msgid "Plugin version mismatch"
+msgstr ""
+
+msgid "Database version mismatch"
+msgstr ""
+
+msgid "Invalid authentication token"
+msgstr ""
+
+msgid "Malformed font list "
+msgstr ""
+
+msgid "Attempting authentication"
+msgstr ""
+
+msgid "Importing account settings ..."
+msgstr ""
+
+msgid "Internal \"popup\" value invalid"
+msgstr ""
+
+msgid "Enable CPROTEXT"
+msgstr ""
+
+msgid "Text Font"
+msgstr ""
+
+msgid "Keywords (comma separated)"
+msgstr ""
+
+msgid ""
+"This plugin requires that you first synchronize your CPROTEXT.COM account "
+"settings with the <a href=\"./options-general.php?page=cprotext\">WordPress "
+"CPROTEXT Settings</a>"
+msgstr ""
+
+msgid "Enable image protection"
+msgstr ""
+
+msgid "Can not create directory \""
+msgstr ""
+
+msgid "Failing to insert CPROTIMG data for"
+msgstr ""
+
+msgid "Protected"
+msgstr ""
+
+msgid "Get your authentication token from the API tab of"
+msgstr ""
+
+msgid "your account"
+msgstr ""
+
+msgid "and paste it below to access the cprotext API from this WordPress site:"
+msgstr ""
+
+msgid "enabled by default"
+msgstr ""
+
+msgid "disabled"
+msgstr ""
+
+msgid "by CPROTEXT.COM"
+msgstr ""

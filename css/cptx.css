@@ -1,0 +1,134 @@
+.cptxDialog.ui-dialog{
+  background-color:white
+}
+
+.cptxDialog .ui-dialog-titlebar{
+  background-color:black;
+  color:white;
+  font-weight:bold;
+  text-align:center
+}
+
+.cptxDialog .ui-button.ui-dialog-titlebar-close{
+  display:none
+}
+
+.cptxDialog .ui-dialog-content{
+  padding:5px
+}
+
+.cptxDialog .ui-dialog-content .cptx_form{
+  padding-top:5px;
+  padding-left:30px
+}
+
+.cptxDialog .ui-dialog-content label{
+  font-weight: bold
+}
+
+.cptxDialog .ui-dialog-content input{
+  font-weight: normal
+}
+
+.cptxDialog .ui-dialog-buttonpane{
+  padding:5px;
+  text-align:center
+}
+
+.cptxDialog .ui-button{
+  margin-right:5px;
+  white-space: normal;
+  height: auto
+}
+
+.cptxDialog .wait, .cptxDialog .wait:before{
+  display: inline-block;
+  vertical-align:middle;
+  padding-right: 10px
+}
+
+.cptxDialog .ui-dialog-title:before{
+  vertical-align:middle;
+  padding-right:5px;
+}
+
+.cptxDialog .legen{
+  height:80px;
+  background-color: inherit
+}
+
+.cptxDialog .legen>p{
+  display:none
+}
+
+.cptxDialog .dary{
+  background-position:center top;
+  background-repeat:no-repeat;
+  position:relative
+}
+
+.cptxDialog .dary>p{
+  display:inline-block;
+  top:35px;
+  position:absolute;
+  text-align:center;
+  width:100%;
+  margin:0;
+  font-style:italic
+}
+
+#cptx_settings .redborders{
+  border-color: red;
+}
+
+#cptx_settings .progress{
+  display: none;
+  vertical-align:middle;
+  position:relative;
+  width:100px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  padding: 1px;
+  margin: 0 5px;
+}
+
+#cptx_settings .bar{
+  background-color: #b4f5b4;
+  width: 0;
+  height: 20px;
+  border-radius: 3px;
+}
+
+#cptx_settings .percent{
+  position: absolute;
+  display: inline-block;
+  top: 1px;
+  text-align: center;
+  width: 100%;
+}
+
+#cptx_settings .status{
+  display: inline-block;
+}
+
+.cptxmsg{
+  margin: 5px 0 15px;
+  padding: 0 12px;
+  border-left-width:4px;
+  border-left-style: solid;
+  background-color: #FFF;
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+}
+
+.cptxmsg.cptxerror{
+  border-left-color:#dd3d36;
+}
+.cptxmsg.cptxwarning{
+  border-left-color:#ff9400;
+}
+.cptxmsg.cptxdebug{
+  border-left-color:#777777;
+}
+.cptxmsg p{
+  margin: 0.5em 0;
+}
